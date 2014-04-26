@@ -185,11 +185,7 @@
 
 ---
 
-# Branding / Self Promotion
-
-### One of the products in this video uses the freemium model. Which one is it?
-
-[https://www.youtube.com/watch?v=A3PDXmYoF5U](https://www.youtube.com/watch?v=A3PDXmYoF5U)
+![](assets/videos/gopro.mov)
 
 ---
 
