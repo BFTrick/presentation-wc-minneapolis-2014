@@ -94,6 +94,48 @@
 
 ---
 
+# Dropbox
+
+![](assets/images/dropbox.jpg)
+
+---
+
+# MailChimp
+
+![](assets/images/mailchimp.jpg)
+
+---
+
+# Buffer
+
+![](assets/images/buffer.jpg)
+
+---
+
+# Google Apps
+
+![](assets/images/google.jpg)
+
+---
+
+# BaseCamp
+
+![](assets/images/basecamp.jpg)
+
+---
+
+# Desktop Server
+
+![](assets/images/desktop-server.jpg)
+
+---
+
+# WP Engine
+
+![](assets/images/wp-engine.jpg)
+
+---
+
 # [fit] Advantages of
 # [fit] Freemium
 
@@ -157,6 +199,10 @@
 ---
 
 # Extensions / Add-ons
+
+---
+
+# Micropayments
 
 ---
 
