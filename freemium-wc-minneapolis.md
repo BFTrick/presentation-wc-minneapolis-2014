@@ -32,7 +32,7 @@
 * Love: Yoga
 * Occupation: Support Ninja for WooThemes
 
-![fit|right](assets/images/woothemes-logo.png)
+![fit|right](assets/images/logos/woothemes-logo.png)
 
 ---
 
@@ -94,45 +94,31 @@
 
 ---
 
-# Dropbox
-
-![](assets/images/dropbox.jpg)
+![fit|original](assets/images/logos/dropbox-logo.png)
 
 ---
 
-# MailChimp
-
-![](assets/images/mailchimp.jpg)
+![fit|original](assets/images/logos/mailchimp-logo.png)
 
 ---
 
-# Buffer
-
-![](assets/images/buffer.jpg)
+![fit|original](assets/images/logos/buffer-logo.png)
 
 ---
 
-# Google Apps
-
-![](assets/images/google.jpg)
+![fit|original](assets/images/logos/google-logo.png)
 
 ---
 
-# BaseCamp
-
-![](assets/images/basecamp.jpg)
+![fit|original](assets/images/logos/basecamp-logo.png)
 
 ---
 
-# Desktop Server
-
-![](assets/images/desktop-server.jpg)
+![fit|original](assets/images/logos/serverpress-logo.png)
 
 ---
 
-# WP Engine
-
-![](assets/images/wp-engine.jpg)
+![fit|original](assets/images/logos/wp-engine-logo.png)
 
 ---
 
