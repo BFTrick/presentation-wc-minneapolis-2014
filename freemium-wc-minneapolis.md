@@ -94,27 +94,36 @@
 
 ---
 
-![fit|original](assets/images/logos/dropbox-logo.png)
+# Dropbox
+![fit](assets/images/logos/dropbox-logo.png)
 
 ---
 
-![fit|original](assets/images/logos/mailchimp-logo.png)
+# Mailchimp
+
+![fit](assets/images/logos/mailchimp-logo.png)
 
 ---
 
+# Buffer
 ![fit|original](assets/images/logos/buffer-logo.png)
 
 ---
 
-![fit|original](assets/images/logos/google-logo.png)
+# Google (apps)
+![fit](assets/images/logos/google-logo.png)
 
 ---
 
-![fit|original](assets/images/logos/basecamp-logo.png)
+# Basecamp
+
+![fit](assets/images/logos/basecamp-logo.png)
 
 ---
 
-![fit|original](assets/images/logos/serverpress-logo.png)
+# ServerPress
+
+![fit](assets/images/logos/serverpress-logo.png)
 
 ---
 
