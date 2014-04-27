@@ -177,6 +177,8 @@
 
 ![](assets/images/tip-jar.jpg)
 
+^ If you are going to use a donation model make the user pay first. Mike Jolley's download monitor does this.
+
 ---
 
 # Branding / Self Promotion
@@ -191,13 +193,31 @@
 
 # Extensions / Add-ons
 
+^ WooCommerce, EDD, MailPoet, Ninja Forms, LastPass, Remember the Milk
+
+^ There is a fine line to walk to put enough functionality into core
+
+---
+
+# Software as a Service (SaaS)
+
+^ WordPress.com, Buffer, MailChimp, Akismet, VaultPress, Google Apps, Dropbox
+
 ---
 
 # Micropayments
 
+^ Candy Crush, Angry Birds, Dungeon Keeper, etc.
+
+^ With this model you're banking on creating an addictive game that people can't stop playing
+
+^ You may only have a 1% conversion rate but that 1% can easily cover the other 99%
+
 ---
 
 # Follow Up
+
+Nick Ciske - Plugin Monetization Options - http://2014.minneapolis.wordcamp.org/session/plugin-monetization-options/
 
 Kim Gjerstad - Freemium, a sustainable model for your plugin - http://www.youtube.com/watch?v=cjSPkQ-v8To
 
